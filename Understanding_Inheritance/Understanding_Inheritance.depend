@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1678205355 source:c:\users\ashish\desktop\c++-hdd\understanding_inheritance\main.cpp
+	<iostream>
+	"rectangleType.h"
+	"boxType.h"
+
+1678205292 source:c:\users\ashish\desktop\c++-hdd\understanding_inheritance\rectangletype.cpp
+	"rectangleType.h"
+	<iostream>
+
+1678205447 c:\users\ashish\desktop\c++-hdd\understanding_inheritance\rectangletype.h
+
+1677776939 source:c:\users\ashish\desktop\c++-hdd\understanding_inheritance\boxtype.cpp
+	"boxType.h"
+	<iostream>
+
+1677776985 c:\users\ashish\desktop\c++-hdd\understanding_inheritance\boxtype.h
+	"rectangleType.h"
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1675953606 source:d:\ashish\unisa_2023\c++\pb\powerbuilding\main.cpp
+	<iostream>
+	<fstream>
+	"Exercise.h"
+
+1675952241 source:d:\ashish\unisa_2023\c++\pb\powerbuilding\exercise.cpp
+	"Exercise.h"
+	<string>
+	<iostream>
+
+1675952116 d:\ashish\unisa_2023\c++\pb\powerbuilding\exercise.h
+	<iostream>
+	<string>
+
+1675952241 source:c:\users\ashish\desktop\c++-hdd\pb\powerbuilding\exercise.cpp
+	"Exercise.h"
+	<string>
+	<iostream>
+
+1675952116 c:\users\ashish\desktop\c++-hdd\pb\powerbuilding\exercise.h
+	<iostream>
+	<string>
+
+1677599177 source:c:\users\ashish\desktop\c++-hdd\pb\powerbuilding\main.cpp
+	<iostream>
+	<fstream>
+	"Exercise.h"
+

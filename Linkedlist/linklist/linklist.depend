@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1674656509 source:d:\ashish\unisa_2023\c++\linkedlist\linklist\main.cpp
+	<iostream>
+
+1674657781 source:d:\ashish\unisa_2023\c++\linkedlist\linklist\linkedlistiterator.cpp
+	"linkedListIterator.h"
+
+1674657936 d:\ashish\unisa_2023\c++\linkedlist\linklist\linkedlistiterator.h
+

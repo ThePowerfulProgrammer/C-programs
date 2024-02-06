@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1678461789 source:c:\users\ashish\desktop\c++-hdd\juicedispenser\main.cpp
+	<iostream>
+	<fstream>
+	"cashRegister.h"
+	"dispenser.h"
+
+1678460902 source:c:\users\ashish\desktop\c++-hdd\juicedispenser\cashregister.cpp
+	"cashRegister.h"
+
+1678376650 c:\users\ashish\desktop\c++-hdd\juicedispenser\cashregister.h
+
+1678461228 source:c:\users\ashish\desktop\c++-hdd\juicedispenser\dispenser.cpp
+	"dispenser.h"
+	<iostream>
+
+1678461201 c:\users\ashish\desktop\c++-hdd\juicedispenser\dispenser.h
+	<iostream>
+	<fstream>
+	<string>
+

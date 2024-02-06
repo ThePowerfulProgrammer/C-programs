@@ -1,0 +1,29 @@
+BenchPress 1 3 180 0.9 7 100
+Shoulder-Press 4 6 120 0.8 8 37.5
+Bent-over-Row 3 9 120 0.7 7 85
+Lying-DB-Curl 3 11 180 0.8 9 19
+TricepsropePD  4 13 120 0.7 8 57
+
+Squats-HW 1 1 0 0.85 7 140
+Squat-DS 3 5 180 0.72 8 140
+Calves-LP 4 13 120 0.5 8 140
+Romanian-DB 3 12 120 0.7 8 42
+Lunges-DB 3 10 150 0.6 8 26.5
+LegExtension 2 11 120 0.7 8 72
+CableCrunch 2 11 120 0.7 8 121
+
+Pull-Upss 3 5 120 1 9 1
+Incline-CP 3 11 180 0.6 9 88
+UpperBackRow 3 13 120 0.7 8 72
+LateralRaise 3 11 120 0.7 6 14
+ReverseCurl 3 11 120 0.7 8 42.5
+CablePowerbomb 7 11 120 0.7 7 58
+
+Deadlift-SW 3 1 180 1 9 170
+Deadlift-DS 2 3 180 0.88 8 170
+Calves-LP 4 13 120 0.5 8 140
+PendulumSquat 4 13 180 0.7 8 60
+LyingLegCurl 3 12 120 0.7 8 50
+Shrugs-BB 1 60 360 0.7 8 85
+ 
+   

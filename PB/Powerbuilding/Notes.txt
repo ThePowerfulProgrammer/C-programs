@@ -1,0 +1,19 @@
+Purpose: Create a program that creates a Block of training for a specified length with all required potentiation
+
+Requirements:
+    Exercise
+    Exercise name
+    Exercise sets
+    Exercise reps
+    Exercise intensity
+    Exercise rest
+    Exercise RPE
+
+
+
+
+
+Member functions to potentiate
+
+Member function to write array of exercises to text file and potentiate over given weeks?
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1683215492 source:c:\users\ashish\desktop\c++-hdd\createusername\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<cctype>
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+

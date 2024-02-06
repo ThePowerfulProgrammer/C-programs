@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\ashish\desktop\c++-hdd\clocktype\main.cpp
+	<iostream>
+
+1679222970 source:c:\users\ashish\desktop\c++-hdd\clocktype\clocktype.cpp
+	"clockType.h"
+
+1679221262 c:\users\ashish\desktop\c++-hdd\clocktype\clocktype.h
+	<iostream>
+
